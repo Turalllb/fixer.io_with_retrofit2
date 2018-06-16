@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Курсы валют</string>
+    <string name="currency">Валюта</string>
+    <string name="date">Дата</string>
+    <string name="button_sort_name1">по алфавиту</string>
+    <string name="button_sort_name2">по убыванию</string>
+    <string name="button_sort_name3">по возрастанию</string>
+    <string name="share">Поделиться</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':app', ':Android-File-Dialog-master', ':vksdk'
+project(':vksdk').projectDir = new File('vksdk_library')

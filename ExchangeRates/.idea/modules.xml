@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-File-Dialog-master/Android-File-Dialog-master.iml" filepath="$PROJECT_DIR$/Android-File-Dialog-master/Android-File-Dialog-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExchangeRates.iml" filepath="$PROJECT_DIR$/ExchangeRates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vksdk_library/vksdk.iml" filepath="$PROJECT_DIR$/vksdk_library/vksdk.iml" />
+    </modules>
+  </component>
+</project>
